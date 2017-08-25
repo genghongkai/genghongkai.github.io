@@ -1,5 +1,5 @@
 # genghongkai.github.io
-[演示：Demo](https://genghongkai.github.io)
+(https://genghongkai.github.io)
  <br>
  
 喜欢的就start一下吧！你的支持是我更新的动力！
