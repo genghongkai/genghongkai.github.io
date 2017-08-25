@@ -1,5 +1,5 @@
 # xiaohange.github.io
-[演示：Demo](https://xiaohange.github.io)
+[演示：Demo](https://genghongkai.github.io)
  <br>
  
 喜欢的就start一下吧！你的支持是我更新的动力！
@@ -8,13 +8,12 @@
 
 <p>
 
-这里记录了日常博客 --->
+这里记录了日常博客
 <p> 
 
 ## Star
    
-
-iOS开发者交流群：446310206 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
+ 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
 
 
 ## License
