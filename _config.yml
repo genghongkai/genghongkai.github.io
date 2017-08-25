@@ -1,8 +1,8 @@
 # Basic
-title: 韩俊强的博客
+title: 耿宏凯的博客
 subtitle: 爱折腾 - 乐于折腾 - 享受折腾
-KeyWords: 韩俊强的博客 iOS开发实战 Swift开发
-description: iOS开发者QQ群：446310206 
+KeyWords: 耿宏凯的博客 iOS开发实战 Swift开发
+description: QQ：1159538747
 # 头像里面的标题
 avatarTitle: HaRi
 # 头像里面的描述
@@ -11,16 +11,16 @@ url: "http://blog26.com"
 
 # Comment
 comment:
-    # disqus: xiaohange
-    # duoshuo: xiaohange 
+    # disqus: genghongkai
+    # duoshuo: genghongkai
     yungentie: http://noneless.tk
 
 # Social
 social:
-    weibo: hanjunqiang
-    github: xiaohange
+    weibo: genghongkai
+    github: genghongkai
     # twitter: 
-    mail: 532167805@qq.com
+    mail: 1159538747@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
