@@ -1,25 +1,32 @@
 ---
 layout: post
-title:  "耿宏凯个人博客!"
+title:  "今天是个好天气"
 date:   2017-08-25 14:18:02 +0800
-categories: original
+categories: 天气
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
+每个女生都有幻想过那种浪漫的爱情故事吧。爱情还是不要刻意去寻找，因为它总是在你毫无防备的时候出现。姑娘，我知道你一个人很孤独，很无助的时候，是会想要有个人来陪的吧。
+　　
+别的女生是男朋友扛着行李接她来学校，而你一个人提着重重的行李箱，满头大汗的尴尬与狼狈。其实你也期待着，突然出现一个男生，微笑着说，“你好，需要帮忙吗？”可是，没有。是不是我们表现得太过坚强，才让别人以为我们不需要被疼爱？
+　　
 Jekyll also offers powerful support for code snippets:
 
+博客
+更新被拒绝，因为远程包含你所做的工作
+没有本地。这通常是由另一个库推
+语法错误
+更新被拒绝的原因是因为你目前的枝尖的背后是其远程副本。集成远程更改
+拒绝合并无关的历史
+
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+for(NSInteger i=0;i<10;i++)
+{
+
+}
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('i是多少')
+#=> 你可以计算出来吗！.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+每个女生都有幻想过那种浪漫的爱情故事吧。爱情还是不要刻意去寻找，因为它总是在你毫无防备的时候出现。姑娘，我知道你一个人很孤独，很无助的时候，是会想要有个人来陪的吧。
+别的女生是男朋友扛着行李接她来学校，而你一个人提着重重的行李箱，满头大汗的尴尬与狼狈。其实你也期待着，突然出现一个男生，微笑着说，“你好，需要帮忙吗？”可是，没有。是不是我们表现得太过坚强，才让别人以为我们不需要被疼爱？
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
