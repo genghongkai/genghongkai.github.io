@@ -1,43 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Basic
+title: 耿宏凯的博客
+subtitle: 爱搞  -  喜欢搞   -  没事就搞搞
+KeyWords: 耿宏凯的博客 IOS开发实战 Swift开发
+description: QQ: 1159538747     tel: 18210025560     mail:1159538747@qq.com
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
+title: 博客
+email: 1159538747@qq.com
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+kramdown:
+input: GFM
+syntax_highlighter: rouge
+textColor: #FF0000
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+blog_button:
+title: 博客
+description: 访问博客
+
+# Navigation buttons in the front page.s
+nav:
+- {title: 所有文章, description: archive, url: '/archive'}
+- {title: 标签, description: tags, url: '/tags'}
+- {title: 关于我, description: about, url: '/about'}
+
