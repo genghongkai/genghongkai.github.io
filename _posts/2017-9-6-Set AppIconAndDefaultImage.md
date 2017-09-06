@@ -25,4 +25,4 @@ categoryies: xcode
 * 180*180  icon@3x.png
 ```
 添加完成后如下图
-![](/Image/2017/9/icon)
+![](/Image/2017/9/icon.png)
