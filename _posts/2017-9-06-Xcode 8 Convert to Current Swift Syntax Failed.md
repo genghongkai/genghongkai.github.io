@@ -9,9 +9,7 @@ categoryies: xcode
 当升级到 Xcode 8的时候，我们基本都需要升级 Swift 语法， 这个时候可能出现Convert to Current Swift Syntax Failed的问题 ：
 
 大致的描述是说，在你的 XXXXTests 下找不到你的测试主机。
-
-
-## Xcode 8 Convert to Current Swift Syntax Failed
+### 解决办法
 ```
 1：选择你的工程项目
 2：选择你的项目测试项，XXXXTests
