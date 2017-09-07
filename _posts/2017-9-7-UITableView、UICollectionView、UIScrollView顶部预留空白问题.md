@@ -6,7 +6,7 @@ categoryies: UI
 ---
 
 
-处理方法：
+### 处理方法：
 
 self.automaticallyAdjustsScrollViewInsets = NO;
 ```
